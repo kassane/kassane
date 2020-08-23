@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm [Matheus!](https://twitter.com/theucatarino) 👋 
+
+- 💬 Ask me about [here](https://kasane.github.io)
 
 ![Matheus Catarino - github stats](https://github-readme-stats.vercel.app/api?username=kassane&show_icons=true)
 <!--
