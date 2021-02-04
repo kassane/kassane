@@ -4,17 +4,18 @@
 
 I have a degree in Accounting and a self-taught in computing with more than 10 years of experience in system programming.
 
-### Programming languages in which I have skills:
+### Some programming language skills are
 
 - **C++**
 - **Lua**
-- **Python** (*v3 only*)
 - **Object Pascal**
+- **Python** (*v3 only*)
 - **Rust**
 - **Zig**
 
 ### Stats
 
-![trophy](https://github-profile-trophy.vercel.app/?username=kassane&column=8&margin-w=2)
-
 ![Matheus Catarino - github stats](https://github-readme-stats.vercel.app/api?username=kassane&show_icons=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kassane&hide=javascript,html,css&layout=compact)
