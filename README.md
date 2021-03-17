@@ -36,12 +36,6 @@ I have a degree in Accounting and a self-taught in computing with more than 10 y
 - Operational System: `Linux`, `Windows`
 - Tools: `Git`, Build System [`CMake`, `XMake`], Editor [`Vim`, `VSCode`], `QEMU`, `Bash`, `Android Studio`, `Unreal Engine 4`
 
-### Professional Experience
-
-- C++ developer, Correias Bahia, Brazil (July, 2015 – August, 2019)
-  - Develop a financial system
-- Technologies got to work on: `Qt`
-
 ### My Contribuitions
 
 - [Kapeli - User Contribuitions](https://github.com/Kapeli/Dash-User-Contributions/pulls?q=author%3Akassane)
