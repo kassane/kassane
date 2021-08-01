@@ -3,7 +3,7 @@
 - 💬 Ask me [about here](https://about.me/matheus_catarino)
 - CV [lattes](http://lattes.cnpq.br/4663179147291686)
 
-I have a degree in Accounting and a self-taught in computing with more than 10 years of experience in system programming.
+Currently studying Computer Engineering and Accounting and a self-taught in computing with more than 10 years of experience in system programming.
 
 ### Some programming language skills are
 <p align="left">
