@@ -3,7 +3,7 @@
 - 💬 Ask me [about here](https://about.me/matheus_catarino)
 - CV [lattes](http://lattes.cnpq.br/4663179147291686)
 
-Currently studying Computer Engineering and Accounting and a self-taught in computing with more than 10 years of experience in system programming.
+Currently studying Computer Engineering and Accounting with more than 10 years of experience in system programming.
 
 ### Some programming language skills are
 <p align="left">
@@ -35,6 +35,7 @@ Currently studying Computer Engineering and Accounting and a self-taught in comp
 
 - Operational System: `Linux`, `Windows`
 - Tools: `Git`, Build System [`CMake`, `XMake`], Editor [`Vim`, `VSCode`], `QEMU`, `Bash`, `Android Studio`, `Unreal Engine 4`
+- Embedded System
 
 ### My Contribuitions
 
