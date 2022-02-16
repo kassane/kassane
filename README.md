@@ -17,11 +17,13 @@ Currently studying Computer Engineering and Accounting with more than 10 years o
 ### Stats
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=kassane&label=Profile%20views&color=0e75b6&style=flat" alt="kassane"/></p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kassane&"/>
+<img src="https://komarev.com/ghpvc/?username=kassane&label=Profile%20views&color=0e75b6&style=flattheme=react" alt="kassane"/></p>
+<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=kassane&theme=react"/>
 
-![Matheus Catarino - github stats](https://github-readme-stats.vercel.app/api?username=kassane&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kassane&hide=javascript,html,css&layout=compact)
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kassane&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassane&layout=compact&hide=javascript,html,css&langs_count=7&theme=react"/>
+</div>
 
 ----
 
