@@ -22,7 +22,7 @@ Currently studying Computer Engineering and Accounting with more than 10 years o
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kassane&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassane&layout=compact&hide=javascript,html,css&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassane&layout=compact&hide=javascript,html,css,cmake,vim script&langs_count=7&theme=react"/>
 </div>
 
 ----
