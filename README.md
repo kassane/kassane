@@ -19,10 +19,6 @@ Currently studying Computer Engineering and Accounting with more than 10 years o
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=kassane&label=Profile%20views&color=0e75b6&style=flattheme=react" alt="kassane"/></p>
 <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=kassane&theme=react"/>
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kassane&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassane&layout=compact&hide=html,javascript,css,cmake&langs_count=8&theme=react"/>
 </div>
 
 ----
