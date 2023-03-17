@@ -1,4 +1,4 @@
-## Hi there, I'm [Matheus C. França](https://twitter.com/theucatarino)! 👋 
+## Hi there, I'm [Matheus C. França](https://twitter.com/theucatarino)! 👋👨‍🦽
 
 - CV [lattes](http://lattes.cnpq.br/4663179147291686)
 
