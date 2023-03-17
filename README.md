@@ -2,7 +2,21 @@
 
 - CV [lattes](http://lattes.cnpq.br/4663179147291686)
 
-Currently studying Computer Engineering and Accounting with more than 10 years of experience in system programming.
+Started programming at age 12, but always treated it as a hobby (it was fun and entertaining). Never aspired to work with such.
+I have always attempted to find knowledge geared towards formal employment business.
+
+Over time I learned about:
+- Administrative accounting
+- People management
+- Project management
+- Human Rights
+- Fundamental Law
+- Financial Management
+- Public Management.
+
+My purpose is learning and contributing to some projects that interest me. 😅🤓
+
+Outside of this scope, the descriptions below for technical aptitude.
 
 ### Some programming language skills are
 <p align="left">
