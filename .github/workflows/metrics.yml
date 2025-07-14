@@ -17,6 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # options
+          filename: metrics.plugin.achievements.svg
           base: header, activity, community, repositories, metadata
           config_timezone: America/Bahia
           plugin_achievements: yes
