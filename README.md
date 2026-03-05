@@ -12,9 +12,9 @@ Systems programmer focused on performance-critical software, cross-platform tool
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" alt="lua" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original-wordmark.svg" alt="go" width="70" height="40"/>
-<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/lazarus-icon.png" alt="object pascal" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/lazarus.svg" alt="object pascal" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
 <img src="https://github.com/ziglang/logo/raw/master/zig-mark.svg" alt="zig" width="40" height="40"/>
 </p>
 
