@@ -1,54 +1,40 @@
-## Hi there, I'm [Matheus C. França](https://twitter.com/theucatarino)! 👋👨‍🦽
+## Matheus C. França 👨‍🦽
 
-- CV [lattes](http://lattes.cnpq.br/4663179147291686)
+[Twitter](https://twitter.com/theucatarino) · [Lattes CV](http://lattes.cnpq.br/4663179147291686)
 
-Started programming at age 12, but always treated it as a hobby (it was fun and entertaining). Never aspired to work with such.
-I have always attempted to find knowledge geared towards formal employment business.
+Systems programmer focused on performance-critical software, cross-platform tooling, and embedded systems. I work across the stack from low-level C++ and Zig to build systems and package management — and I bring a background in project and financial management that makes me effective beyond just writing code.
 
-Over time I learned about:
-- Administrative accounting
-- People management
-- Project management
-- Human Rights
-- Fundamental Law
-- Financial Management
-- Public Management.
+---
 
-My purpose is learning and contributing to some projects that interest me. 😅🤓
+### Languages
 
-Outside of this scope, the descriptions below for technical aptitude.
-
-### Some programming language skills are
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" alt="lua" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original-wordmark.svg" alt="go" width="70" height="40"/>
-<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/lazarus-icon.png" alt="object pascal" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original-wordmark.svg" alt="go" width="70" height="40"/>
+<img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/lazarus.svg" alt="object pascal" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="40" height="40"/>
-<img src="https://github.com/ziglang/logo/raw/master/zig-mark.svg" alt="zig" width="40" height="40"/> </p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
+<img src="https://github.com/ziglang/logo/raw/master/zig-mark.svg" alt="zig" width="40" height="40"/>
+</p>
 
 ### Stats
 
 [![kassane's metrics](./github-metrics.svg)](https://github.com/lowlighter/metrics)
 
-----
-
-### Qualifications summary
-
-- I’m used to code cross-platform applications.
-- No experience with Apple products (IOS and macOS).
-- I like to code applications where performance matters.
+---
 
 ### Technical Skills
 
-- Operational System: `Linux`, `Windows`
-- Tools: `Git`, Build System [`CMake`, `XMake`], Editor [`Vim`, `VSCode`], `QEMU`, `Bash`, `Android Studio`, `Unreal Engine 4`
-- Embedded Systems
+- **Platforms:** Linux, Windows
+- **Build Systems:** CMake, XMake
+- **Tooling:** Git, Bash, QEMU, Vim, VSCode
+- **Domains:** Embedded systems, cross-platform development, performance-sensitive applications
+- **Other:** Android Studio, Unreal Engine 4
 
-### My Contribuitions
+### Open Source Contributions
 
-- [Kapeli - User Contribuitions](https://github.com/Kapeli/Dash-User-Contributions/pulls?q=author%3Akassane)
-- [MSYS2 Packages](https://github.com/msys2/MINGW-packages/pulls?q=author%3Akassane)
+- [Kapeli Dash — User Contributions](https://github.com/Kapeli/Dash-User-Contributions/pulls?q=author%3Akassane)
+- [MSYS2 / MINGW Packages](https://github.com/msys2/MINGW-packages/pulls?q=author%3Akassane)
 - [XMake](https://github.com/xmake-io/xmake/issues?q=author%3Akassane)
-- [Zig Website - Portuguese translation](https://github.com/ziglang/www.ziglang.org/pull/96)
+- [Zig Website — Portuguese translation](https://github.com/ziglang/www.ziglang.org/pull/96)
